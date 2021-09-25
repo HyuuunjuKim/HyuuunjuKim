@@ -7,7 +7,7 @@
 <a><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white" alt="babel Badge" /></a>
 <a><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon aws&logoColor=white" alt="aws Badge" /></a>
 
-기술블로그 [https://hjuu.tistory.com]()
+블로그 [https://hjuu.tistory.com](https://hjuu.tistory.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyuuunjuKim)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyuuunjuKim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
